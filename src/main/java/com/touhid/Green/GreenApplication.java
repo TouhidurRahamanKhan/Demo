@@ -20,7 +20,7 @@ public class GreenApplication {
 	}
 	
 	@RequestMapping("/Hello2")
-	public String hello2()
+	public String hello3()
 	{
 		return "Hello2!!!!!!!!!!!!!!!!!";
 	}
