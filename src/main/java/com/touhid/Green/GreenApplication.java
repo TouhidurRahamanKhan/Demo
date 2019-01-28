@@ -31,5 +31,11 @@ public class GreenApplication {
 		return "Hello4!!!!!!!!!!!!!!!!!";
 	}
 	
+	@RequestMapping("/Hello5")
+	public String hello5()
+	{
+		return "Hello55555!!!!!!!!!!!!!!!!!";
+	}
+	
 }
 
