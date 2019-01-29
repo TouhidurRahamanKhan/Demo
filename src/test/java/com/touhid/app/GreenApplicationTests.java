@@ -1,4 +1,4 @@
-package com.touhid.Green;
+package com.touhid.app;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
